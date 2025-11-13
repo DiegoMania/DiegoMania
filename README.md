@@ -1,16 +1,16 @@
-## Hi there 👋
+##¡Hola! Soy Diego Gael 👋
 
-<!--
-**DiegoMania/DiegoMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Acerca de Mí:**
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (*CUAltos*). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Habilidades y Enfoque:**
+
+Mis lenguajes principales son ***Python y C/C++***, con los cuales he desarrollado la mayoría de mis actividades académicas. Actualmente, estoy complementando mis estudios con SQL para asi tener bases en el conocimento y manejo en la gestión de bases de datos.
+
+**Intereses y Colaboración:**
+
+Me interesa formar parte de proyectos que tengan que ver con el **Desarrollo Web**, la Programación de **microcontroladores** y la aplicación de la Programación Orientada a Objetos (*OOP*)para construir sistemas eficientes.
+
+Contacto:
+[LinkedIn: ](www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
