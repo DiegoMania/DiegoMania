@@ -2,15 +2,15 @@
 
 **Acerca de Mí:**
 
-Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (*CUAltos*). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
+  Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (*CUAltos*). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
 
 **Habilidades y Enfoque:**
 
-Mis lenguajes principales son ***Python y C/C++***, con los cuales he desarrollado la mayoría de mis actividades académicas. Actualmente, estoy complementando mis estudios con SQL para asi tener bases en el conocimento y manejo en la gestión de bases de datos.
+  Mis lenguajes principales son ***Python y C/C++***, con los cuales he desarrollado la mayoría de mis actividades académicas. Actualmente, estoy complementando mis estudios con SQL para asi tener bases en el conocimento y manejo en la gestión de bases de datos.
 
 **Intereses y Colaboración:**
 
-Me interesa formar parte de proyectos que tengan que ver con el **Desarrollo Web**, la Programación de **microcontroladores** y la aplicación de la Programación Orientada a Objetos (*OOP*)para construir sistemas eficientes.
+  Me interesa formar parte de proyectos que tengan que ver con el **Desarrollo Web**, la Programación de **microcontroladores** y la aplicación de la Programación Orientada a Objetos (*OOP*)para construir sistemas eficientes.
 
 Contacto:
-[LinkedIn: ](www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
+[LinkedIn](www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
