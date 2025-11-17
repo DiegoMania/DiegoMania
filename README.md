@@ -1,8 +1,8 @@
 
 ## ¡Hola! Soy Diego Gael 👋
----
 
->###🔭 Acerca de Mí:
+
+>### 🔭 Acerca de Mí:
 
 Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (***CUAltos***). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
 
@@ -21,5 +21,5 @@ Me interesa formar parte de proyectos que tengan que ver con:
 
 ---
 
-Contacto:
+**Contacto:**
 [LinkedIn](https://www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
