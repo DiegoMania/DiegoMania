@@ -14,4 +14,4 @@ Me interesa formar parte de proyectos que tengan que ver con:
 * 🧩 La aplicación de la **Programación Orientada a Objetos (OOP)** para construir sistemas eficientes.
 
 Contacto:
-[LinkedIn](www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
+[LinkedIn](https://www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
