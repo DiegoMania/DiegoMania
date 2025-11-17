@@ -1,9 +1,9 @@
 
 ## ¡Hola! Soy Diego Gael 👋
+---
 
+>###🔭 Acerca de Mí:
 
-> [!NOTE] ### 🔭 Acerca de Mí:
->
 Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (***CUAltos***). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
 
 ---
