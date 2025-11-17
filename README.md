@@ -1,8 +1,10 @@
 
 ## ¡Hola! Soy Diego Gael 👋
 
-<div style="border-left: 5px solid #8f8a91; padding-left: 15px; background-color: #f7f7f7;">
+<div style="border-left: 5px solid #8f8a91; padding-left: 10px;">
+    
 ### 🔭 Acerca de Mí:
+    
 </div>
 Soy estudiante de Ingeniería en Computación en el Centro Universitario de Los Altos (***CUAltos***). Estoy enfocado en adquirir conocimientos para la elaboración de sistemas eficientes y útiles.
 
