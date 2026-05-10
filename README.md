@@ -23,3 +23,4 @@ Me interesa formar parte de proyectos que tengan que ver con:
 
 **Contacto:**
 [LinkedIn](https://www.linkedin.com/in/diego-gael-lópez-islas-8913aa375)
+[Instagram](https://www.instagram.com/diego_mania_)
